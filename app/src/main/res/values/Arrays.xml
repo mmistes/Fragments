@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Chelyabinsk</item>
+        <item>Novosibirsk</item>
+        <item>Yekaterinburg</item>
+        <item>Sochi</item>
+    </string-array>
+
+    <integer-array name="Coat_of_arms_imgs">
+        <item>@drawable/chelyabinsk</item> <!--Герб Челябинска -->
+        <item>@drawable/ekb</item> <!--Герб Екатеринбурга -->
+        <item>@drawable/msk</item> <!--Герб Москвы -->
+        <item>@drawable/novosib</item> <!--Герб Новосибирска -->
+        <item>@drawable/spb</item> <!--Герб Санкт Петербурга -->
+        <item>@drawable/sochi</item> <!--Герб Сочи -->
+    </integer-array>
+</resources>
